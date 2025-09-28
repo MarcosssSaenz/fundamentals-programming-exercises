@@ -6,5 +6,5 @@ The goal is to learn the basics of programming using the C language, covering to
 ---
 
 ## 📂 Repository Structure
-The exercises are organized by topics (or "temas"):
+The exercises are organized by topics
 
